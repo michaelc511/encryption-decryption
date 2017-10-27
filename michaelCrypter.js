@@ -37,4 +37,3 @@ function michaelCrypter(theString) {
   return returnString;
 }
 
-console.log(michaelCrypter('hi'));
