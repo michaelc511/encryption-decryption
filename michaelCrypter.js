@@ -36,4 +36,3 @@ function michaelCrypter(theString) {
 
   return returnString;
 }
-
